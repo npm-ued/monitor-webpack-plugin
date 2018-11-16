@@ -1,0 +1,25 @@
+{
+  "name": "monitor-webpack-plugin",
+  "version": "1.0.0",
+  "description": "the monitor for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.91jinrong.com/frontend/monitor-webpack-plugin.git"
+  },
+  "author": "vicshang",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-react-app": "^2.1.0",
+    "eslint-plugin-flowtype": "^2.44.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "escape-string-regexp": "^1.0.5",
+    "slash": "^1.0.0",
+    "source-map-url": "^0.4.0"
+  }
+}
